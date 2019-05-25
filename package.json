@@ -1,0 +1,16 @@
+{
+  "name": "abenoseimei",
+  "version": "1.0.0",
+  "description": "Discord Bot that chants buddha mantras if it detects ping spam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "discord.js": "^11.4.2",
+    "zucc": "^0.1.2"
+  }
+}
